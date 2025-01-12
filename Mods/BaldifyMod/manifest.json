@@ -1,0 +1,9 @@
+{
+    "name": "BaldifyMod",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Press = to make players bald!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+} 

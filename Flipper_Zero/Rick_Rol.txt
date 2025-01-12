@@ -3,11 +3,20 @@ REM Author: Assistant
 REM Description: Opens Rick Roll in default browser
 REM Target: Windows, macOS, Linux
 
-DELAY 1000
+DELAY 1100
 GUI r
 DELAY 500
 STRING https://www.youtube.com/watch?v=xvFZjo5PgG0
 DELAY 500
 ENTER
+
+
+
+
+
+
+
+
+
 
 

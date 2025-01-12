@@ -1,0 +1,7 @@
+C:\Users\willf\Desktop\2025-Programs\Mods\TallerPlayerLC\obj\Debug\netstandard2.1\TallerPlayerLC.csproj.AssemblyReference.cache
+C:\Users\willf\Desktop\2025-Programs\Mods\TallerPlayerLC\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\willf\Desktop\2025-Programs\Mods\TallerPlayerLC\obj\Debug\netstandard2.1\TallerPlayerLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willf\Desktop\2025-Programs\Mods\TallerPlayerLC\obj\Debug\netstandard2.1\TallerPlayerLC.AssemblyInfoInputs.cache
+C:\Users\willf\Desktop\2025-Programs\Mods\TallerPlayerLC\obj\Debug\netstandard2.1\TallerPlayerLC.AssemblyInfo.cs
+C:\Users\willf\Desktop\2025-Programs\Mods\TallerPlayerLC\obj\Debug\netstandard2.1\TallerPlayerLC.csproj.CoreCompileInputs.cache
+C:\Users\willf\Desktop\2025-Programs\Mods\TallerPlayerLC\obj\Debug\netstandard2.1\TallerPlayerLC.sourcelink.json
